@@ -56,6 +56,7 @@ The application uses password hashing and salting in the database to store user 
 - Angular - A front-end web application framework.
 - ASP.NET Core Web API - A back-end web application framework.
 - SQL Server - A relational database management system.
+- Entity framework core.
 
 ## License
 
